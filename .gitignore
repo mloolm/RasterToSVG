@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+# Рабочие папки
+/output_svg/*
+/input_images/*
+!/output_svg/.gitkeep
+!/input_images/.gitkeep
+
+
+# Кеши IDE
+.vscode/
+.idea/
